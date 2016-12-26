@@ -116,4 +116,4 @@ The prover generates on of the following outputs:
 </TABLE>
 
 ## User Manual
-For more information see the [user manual](../usermanual.pdf).
+For more information see the [user manual](usermanual.pdf).
