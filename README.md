@@ -98,16 +98,8 @@ The prover generates on of the following outputs:
 	<TD class="tr2 td21"><P class="p26 ft15">The prover timed out without finding a proof.</P></TD>
 </TR>
 <TR>
-	<TD class="tr1 td18"><P class="p16 ft14">&nbsp;</P></TD>
-	<TD class="tr1 td19"><P class="p16 ft14">&nbsp;</P></TD>
-</TR>
-<TR>
 	<TD class="tr2 td20"><P class="p21 ft16">max memory</P></TD>
-	<TD class="tr2 td21"><P class="p26 ft15">The prover reached the memory limit</P></TD>
-</TR>
-<TR>
-	<TD class="tr6 td18"><P class="p16 ft17">&nbsp;</P></TD>
-	<TD class="tr6 td19"><P class="p18 ft22">without finding a proof.</P></TD>
+	<TD class="tr2 td21"><P class="p26 ft15">The prover reached the memory limit without finding a proof.</P></TD>
 </TR>
 <TR>
 	<TD class="tr2 td20"><P class="p21 ft16">max term size</P></TD>
